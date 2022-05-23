@@ -263,7 +263,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  FREE MINT
+                  First 5000 FREE MINT,THEN 0.001 EACH
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 ></s.TextTitle>
