@@ -9,9 +9,9 @@
   "NFT_NAME": "Nokay Bears",
   "SYMBOL": "Nokay Bear",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 0000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 25000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nokaybears",
   "SHOW_BACKGROUND": true
